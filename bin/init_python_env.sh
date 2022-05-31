@@ -1,0 +1,1 @@
+PIP_REQUIRE_VIRTUALENV=false pip install -U pip poetry # pipenv ipykernel gnureadline virtualenv

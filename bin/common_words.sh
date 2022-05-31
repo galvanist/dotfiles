@@ -1,0 +1,1 @@
+egrep -io "\W[$1]\w{3,}" | tr -cd '[:alnum:]\n' | tr A-Z a-z | sort | uniq -c | sort -n
