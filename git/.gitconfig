@@ -1,12 +1,16 @@
-[user]
-	name = Gavin Leake
-	email = gleake@gmail.com
+[include]
+  path = .gitconfig-work
+[includeIf "gitdir:~/dev/personal/"]
+  path = .gitconfig-personal
+[includeIf "gitdir:~/.cfg/"]
+  path = .gitconfig-personal
+
 [core]
 	excludesfile = ~/.gitignore_global
 	editor = subl -n -w
 [pull]
 	rebase = false
+[push]
+	default = current
 [init]
 	defaultBranch = master
-[includeIf "gitdir:~/work/"]
-    path = ~/work/.gitconfig
