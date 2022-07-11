@@ -1,10 +1,8 @@
-[include]
-  path = .gitconfig-work
-[includeIf "gitdir:~/dev/personal/"]
-  path = .gitconfig-personal
-[includeIf "gitdir:~/.cfg/"]
-  path = .gitconfig-personal
-
+[user]
+	name = Gavin Leake
+	email = gleake@gmail.com
+[includeIf "gitdir:~/dev/work/"]
+  path = .gitconfig_work
 [core]
 	excludesfile = ~/.gitignore_global
 	editor = subl -n -w
