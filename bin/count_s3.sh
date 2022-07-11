@@ -1,0 +1,1 @@
+aws s3api list-objects --bucket "$1" --prefix "$2" --output json --query '[length(Contents[])]'
