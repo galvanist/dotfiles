@@ -10,4 +10,4 @@ if [ -x "$(command -v pyenv)" ]; then
 fi
 
 # for `pipx`
-export PATH="$PATH:/Users/gavin/.local/bin"
+export PATH="/Users/gavin/.local/bin:$PATH"
