@@ -110,3 +110,11 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export PIP_REQUIRE_VIRTUALENV=true
+
+if [ ! -f ~/.gitconfig_work ]; then
+  echo "You REALLY NEED a ~/.gitconfig_work"
+fi
+
+for f in $HOME/.rcs/*; do
+   . $f
+done

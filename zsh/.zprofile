@@ -11,3 +11,6 @@ fi
 
 # for `pipx`
 export PATH="/Users/gavin/.local/bin:$PATH"
+
+# for `awsume`
+alias awsume=". awsume"
