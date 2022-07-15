@@ -71,6 +71,8 @@ ZSH_THEME="nicoulaj"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
+  common-aliases
+  safe-paste
   git
   aws
   brew
@@ -78,8 +80,12 @@ plugins=(
   python
   pyenv
   pip
-  common-aliases
+  poetry
+  zbell
 )
+
+zbell_duration=60
+zbell_ignore=($EDITOR $PAGER code subl meld)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -106,8 +112,11 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
+# alias zshconfig="subl ~/.zshrc"
+# alias ohmyzsh="subl ~/.oh-my-zsh"
+
+# Report CPU usage for commands running longer than 60 seconds
+REPORTTIME=60
 
 export PIP_REQUIRE_VIRTUALENV=true
 
