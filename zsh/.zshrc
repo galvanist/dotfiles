@@ -124,6 +124,6 @@ if [ ! -f ~/.gitconfig_work ]; then
   echo "You REALLY NEED a ~/.gitconfig_work"
 fi
 
-for f in $HOME/.rcs/*; do
+for f in $HOME/.customrcs/*; do
    . $f
 done
