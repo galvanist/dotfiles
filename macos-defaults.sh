@@ -19,7 +19,9 @@ set -euxo pipefail
 # General UI/UX
 
 # Always show scrollbars
-defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
+# defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
+# defaults delete NSGlobalDomain AppleShowScrollBars
+# defaults read NSGlobalDomain AppleShowScrollBars
 # Possible values: `WhenScrolling`, `Automatic` and `Always`
 
 # Enable subpixel font rendering on non-Apple LCDs.
