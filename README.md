@@ -17,7 +17,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 You can (re)install the preferred apps and casks in the `Brewfile` with `brew bundle install`.
 
-You can refresh this file with `brew bundle dump`.
+You can refresh this file with `brew bundle dump --force`.
 
 ### Installing Stow and Git (Required for the following)
 ```sh

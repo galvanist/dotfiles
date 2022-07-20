@@ -289,6 +289,39 @@
                 "venv_args": []
             }
         },
+        "black": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/black/bin/black",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/black/bin/blackd",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "black",
+                        "blackd"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "black",
+                    "package_or_url": "black",
+                    "package_version": "22.6.0",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.10.5",
+                "venv_args": []
+            }
+        },
         "credstash": {
             "metadata": {
                 "injected_packages": {},
@@ -323,6 +356,54 @@
                     "package": "credstash",
                     "package_or_url": "credstash",
                     "package_version": "1.17.1",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.10.5",
+                "venv_args": []
+            }
+        },
+        "mypy": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/mypy/bin/dmypy",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/mypy/bin/mypy",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/mypy/bin/mypyc",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/mypy/bin/stubgen",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/mypy/bin/stubtest",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "dmypy",
+                        "mypy",
+                        "mypyc",
+                        "stubgen",
+                        "stubtest"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "mypy",
+                    "package_or_url": "mypy",
+                    "package_version": "0.971",
                     "pip_args": [],
                     "suffix": ""
                 },
@@ -384,6 +465,34 @@
                     "package": "pre-commit",
                     "package_or_url": "pre-commit",
                     "package_version": "2.20.0",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.10.5",
+                "venv_args": []
+            }
+        },
+        "s3cmd": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/s3cmd/bin/s3cmd",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "s3cmd"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "s3cmd",
+                    "package_or_url": "s3cmd",
+                    "package_version": "2.2.0",
                     "pip_args": [],
                     "suffix": ""
                 },
