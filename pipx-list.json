@@ -48,7 +48,7 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.10.5",
+                "python_version": "Python 3.10.4",
                 "venv_args": []
             }
         },
@@ -194,12 +194,12 @@
                     "include_dependencies": false,
                     "package": "awscli",
                     "package_or_url": "awscli",
-                    "package_version": "1.25.27",
+                    "package_version": "1.25.11",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.10.5",
+                "python_version": "Python 3.10.4",
                 "venv_args": []
             }
         },
@@ -285,7 +285,7 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.10.5",
+                "python_version": "Python 3.10.4",
                 "venv_args": []
             }
         },
@@ -313,12 +313,12 @@
                     "include_dependencies": false,
                     "package": "black",
                     "package_or_url": "black",
-                    "package_version": "22.6.0",
+                    "package_version": "22.3.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.10.5",
+                "python_version": "Python 3.10.4",
                 "venv_args": []
             }
         },
@@ -360,7 +360,112 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.10.5",
+                "python_version": "Python 3.10.4",
+                "venv_args": []
+            }
+        },
+        "flake8": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/flake8/bin/flake8",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "pycodestyle": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/flake8/bin/pycodestyle",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pyflakes": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/flake8/bin/pyflakes",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "flake8"
+                    ],
+                    "apps_of_dependencies": [
+                        "pycodestyle",
+                        "pyflakes"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "flake8",
+                    "package_or_url": "flake8",
+                    "package_version": "4.0.1",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.10.4",
+                "venv_args": []
+            }
+        },
+        "httpie": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/httpie/bin/http",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/httpie/bin/httpie",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/httpie/bin/https",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/httpie/bin/normalizer",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "commonmark": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/httpie/bin/cmark",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pygments": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/httpie/bin/pygmentize",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "http",
+                        "httpie",
+                        "https"
+                    ],
+                    "apps_of_dependencies": [
+                        "normalizer",
+                        "pygmentize",
+                        "cmark"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "httpie",
+                    "package_or_url": "httpie",
+                    "package_version": "3.2.1",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.10.4",
                 "venv_args": []
             }
         },
@@ -403,12 +508,12 @@
                     "include_dependencies": false,
                     "package": "mypy",
                     "package_or_url": "mypy",
-                    "package_version": "0.971",
+                    "package_version": "0.961",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.10.5",
+                "python_version": "Python 3.10.4",
                 "venv_args": []
             }
         },
@@ -464,12 +569,86 @@
                     "include_dependencies": false,
                     "package": "pre-commit",
                     "package_or_url": "pre-commit",
-                    "package_version": "2.20.0",
+                    "package_version": "2.19.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.10.5",
+                "python_version": "Python 3.10.4",
+                "venv_args": []
+            }
+        },
+        "pylint": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/epylint",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/pylint",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/pylint-config",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/pyreverse",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/symilar",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "dill": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/get_objgraph",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/undill",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "isort": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/isort",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/isort-identify-imports",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "epylint",
+                        "pylint",
+                        "pylint-config",
+                        "pyreverse",
+                        "symilar"
+                    ],
+                    "apps_of_dependencies": [
+                        "get_objgraph",
+                        "undill",
+                        "isort",
+                        "isort-identify-imports"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "pylint",
+                    "package_or_url": "pylint",
+                    "package_version": "2.14.5",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.10.4",
                 "venv_args": []
             }
         },
@@ -497,7 +676,7 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.10.5",
+                "python_version": "Python 3.10.4",
                 "venv_args": []
             }
         }
