@@ -115,6 +115,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="subl ~/.zshrc"
 # alias ohmyzsh="subl ~/.oh-my-zsh"
 
+# Do NOT share history across sessions
+unsetopt SHARE_HISTORY
+
 # Report CPU usage for commands running longer than 60 seconds
 REPORTTIME=60
 
