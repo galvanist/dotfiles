@@ -5,7 +5,8 @@
   path = ~/.gitconfig_work
 [core]
 	excludesfile = ~/.gitignore_global
-	editor = subl -n -w
+	editor = subl -w -n --launch-or-new-window
+	pager = less -F
 [pull]
 	rebase = false
 [push]
