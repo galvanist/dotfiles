@@ -1,0 +1,1 @@
+jq -rS '.venvs | keys[]'
