@@ -4,6 +4,8 @@ aws2-wrap
 awsume
 black
 credstash
+csvkit
+datasette
 flake8
 httpie
 isort
@@ -17,3 +19,4 @@ refurb
 s3cmd
 shandy-sqlfmt
 sqlfluff
+sqlite-utils

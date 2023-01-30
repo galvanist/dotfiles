@@ -278,6 +278,180 @@
                 "venv_args": []
             }
         },
+        "csvkit": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvclean",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvcut",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvformat",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvgrep",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvjoin",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvjson",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvlook",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvpy",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvsort",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvsql",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvstack",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/csvstat",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/in2csv",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/sql2csv",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "babel": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/pybabel",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "python-slugify": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/slugify",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "xlrd": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/csvkit/bin/runxlrd.py",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "csvclean",
+                        "csvcut",
+                        "csvformat",
+                        "csvgrep",
+                        "csvjoin",
+                        "csvjson",
+                        "csvlook",
+                        "csvpy",
+                        "csvsort",
+                        "csvsql",
+                        "csvstack",
+                        "csvstat",
+                        "in2csv",
+                        "sql2csv"
+                    ],
+                    "apps_of_dependencies": [
+                        "pybabel",
+                        "slugify",
+                        "runxlrd.py"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "csvkit",
+                    "package_or_url": "csvkit",
+                    "package_version": "1.1.0",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.10.8",
+                "venv_args": []
+            }
+        },
+        "datasette": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/datasette/bin/datasette",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "httpx": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/datasette/bin/httpx",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "hupper": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/datasette/bin/hupper",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pint": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/datasette/bin/pint-convert",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "uvicorn": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/datasette/bin/uvicorn",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "datasette"
+                    ],
+                    "apps_of_dependencies": [
+                        "hupper",
+                        "httpx",
+                        "pint-convert",
+                        "uvicorn"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "datasette",
+                    "package_or_url": "datasette",
+                    "package_version": "0.64.1",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.10.8",
+                "venv_args": []
+            }
+        },
         "flake8": {
             "metadata": {
                 "injected_packages": {},
@@ -971,6 +1145,43 @@
                 },
                 "pipx_metadata_version": "0.2",
                 "python_version": "Python 3.10.5",
+                "venv_args": []
+            }
+        },
+        "sqlite-utils": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/sqlite-utils/bin/sqlite-utils",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "tabulate": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/sqlite-utils/bin/tabulate",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "sqlite-utils"
+                    ],
+                    "apps_of_dependencies": [
+                        "tabulate"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "sqlite-utils",
+                    "package_or_url": "sqlite-utils",
+                    "package_version": "3.30",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.10.8",
                 "venv_args": []
             }
         }
