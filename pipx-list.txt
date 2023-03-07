@@ -16,6 +16,7 @@ pre-commit
 py-spy
 pylint
 refurb
+ruff
 s3cmd
 shandy-sqlfmt
 sqlfluff
