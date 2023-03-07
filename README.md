@@ -78,3 +78,17 @@ You can also refresh the file with:
 ```sh
 ./bin/pipx-list.sh > pipx-list.json
 ```
+
+## Manual Installs
+
+I've grown accustomed to the following tools, they may need to be manually installed/managed:
+* [MeetingBar](https://github.com/leits/MeetingBar)
+* [Rectangle](https://rectangleapp.com/)
+* [DBeaver](https://dbeaver.io/)
+
+## Other Considerations
+
+It's also worth keeping the following in mind (i.e. backed up):
+* Shell Histories are useful, typically found in `~/.zsh_history`
+* Bookmarks in browsers, Google and Firefox can sync these.
+* VSCode settings and installed plugins aren't easy, but should be managed by Github Settings Sync.
