@@ -14,3 +14,11 @@ export PATH="/Users/gavin/.local/bin:$PATH"
 
 # for `awsume`
 alias awsume=". awsume"
+
+pbfilter() {
+  if [ $# -gt 0 ]; then
+      pbpaste | "$@" | pbcopy
+  else
+      pbpaste | pbcopy
+  fi
+}
