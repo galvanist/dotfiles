@@ -1,6 +1,7 @@
 aws-export-credentials
 aws-sso-util
 aws2-wrap
+awsebcli
 awsume
 black
 credstash
@@ -21,3 +22,4 @@ s3cmd
 shandy-sqlfmt
 sqlfluff
 sqlite-utils
+wordcloud
