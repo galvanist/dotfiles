@@ -1,6 +1,34 @@
 {
     "pipx_spec_version": "0.1",
     "venvs": {
+        "asciinema": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/asciinema/bin/asciinema",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "asciinema"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "asciinema",
+                    "package_or_url": "asciinema",
+                    "package_version": "2.4.0",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.12.0",
+                "venv_args": []
+            }
+        },
         "aws-export-credentials": {
             "metadata": {
                 "injected_packages": {},
@@ -29,12 +57,12 @@
                     "include_dependencies": false,
                     "package": "aws-export-credentials",
                     "package_or_url": "aws-export-credentials",
-                    "package_version": "0.14.0",
+                    "package_version": "0.18.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -80,12 +108,12 @@
                     "include_dependencies": false,
                     "package": "aws-sso-util",
                     "package_or_url": "aws-sso-util",
-                    "package_version": "4.31.0",
+                    "package_version": "4.32.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -113,7 +141,7 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -138,27 +166,9 @@
                                 "__type__": "Path"
                             }
                         ],
-                        "docker-compose": [
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/awsebcli/bin/docker-compose",
-                                "__type__": "Path"
-                            }
-                        ],
                         "jmespath": [
                             {
                                 "__Path__": "/Users/gavin/.local/pipx/venvs/awsebcli/bin/jp.py",
-                                "__type__": "Path"
-                            }
-                        ],
-                        "jsonschema": [
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/awsebcli/bin/jsonschema",
-                                "__type__": "Path"
-                            }
-                        ],
-                        "websocket-client": [
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/awsebcli/bin/wsdump.py",
                                 "__type__": "Path"
                             }
                         ]
@@ -169,21 +179,18 @@
                     ],
                     "apps_of_dependencies": [
                         "jp.py",
-                        "normalizer",
-                        "docker-compose",
-                        "wsdump.py",
-                        "jsonschema"
+                        "normalizer"
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
                     "package": "awsebcli",
                     "package_or_url": "awsebcli",
-                    "package_version": "3.20.6",
+                    "package_version": "3.20.10",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.3",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -269,7 +276,7 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -297,12 +304,12 @@
                     "include_dependencies": false,
                     "package": "black",
                     "package_or_url": "black",
-                    "package_version": "23.3.0",
+                    "package_version": "23.10.1",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -344,7 +351,7 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -455,12 +462,12 @@
                     "include_dependencies": false,
                     "package": "csvkit",
                     "package_or_url": "csvkit",
-                    "package_version": "1.1.1",
+                    "package_version": "1.3.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -513,12 +520,12 @@
                     "include_dependencies": false,
                     "package": "datasette",
                     "package_or_url": "datasette",
-                    "package_version": "0.64.2",
+                    "package_version": "0.64.5",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -557,12 +564,12 @@
                     "include_dependencies": false,
                     "package": "flake8",
                     "package_or_url": "flake8",
-                    "package_version": "6.0.0",
+                    "package_version": "6.1.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -618,12 +625,12 @@
                     "include_dependencies": false,
                     "package": "httpie",
                     "package_or_url": "httpie",
-                    "package_version": "3.2.1",
+                    "package_version": "3.2.2",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -656,7 +663,7 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -699,12 +706,12 @@
                     "include_dependencies": false,
                     "package": "mypy",
                     "package_or_url": "mypy",
-                    "package_version": "1.1.1",
+                    "package_version": "1.6.1",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -736,12 +743,12 @@
                     "include_dependencies": false,
                     "package": "pdoc",
                     "package_or_url": "pdoc",
-                    "package_version": "13.1.0",
+                    "package_version": "14.1.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -788,12 +795,6 @@
                                 "__type__": "Path"
                             }
                         ],
-                        "jsonschema": [
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/poetry/bin/jsonschema",
-                                "__type__": "Path"
-                            }
-                        ],
                         "keyring": [
                             {
                                 "__Path__": "/Users/gavin/.local/pipx/venvs/poetry/bin/keyring",
@@ -829,7 +830,6 @@
                         "dul-receive-pack",
                         "dul-upload-pack",
                         "dulwich",
-                        "jsonschema",
                         "keyring",
                         "pkginfo",
                         "virtualenv",
@@ -839,12 +839,12 @@
                     "include_dependencies": false,
                     "package": "poetry",
                     "package_or_url": "poetry",
-                    "package_version": "1.4.2",
+                    "package_version": "1.7.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -890,12 +890,12 @@
                     "include_dependencies": false,
                     "package": "pre-commit",
                     "package_or_url": "pre-commit",
-                    "package_version": "3.2.2",
+                    "package_version": "3.5.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -923,7 +923,7 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -932,10 +932,6 @@
                 "injected_packages": {},
                 "main_package": {
                     "app_paths": [
-                        {
-                            "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/epylint",
-                            "__type__": "Path"
-                        },
                         {
                             "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/pylint",
                             "__type__": "Path"
@@ -955,6 +951,10 @@
                     ],
                     "app_paths_of_dependencies": {
                         "dill": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/get_gprof",
+                                "__type__": "Path"
+                            },
                             {
                                 "__Path__": "/Users/gavin/.local/pipx/venvs/pylint/bin/get_objgraph",
                                 "__type__": "Path"
@@ -976,7 +976,6 @@
                         ]
                     },
                     "apps": [
-                        "epylint",
                         "pylint",
                         "pylint-config",
                         "pyreverse",
@@ -985,6 +984,7 @@
                     "apps_of_dependencies": [
                         "isort",
                         "isort-identify-imports",
+                        "get_gprof",
                         "get_objgraph",
                         "undill"
                     ],
@@ -992,12 +992,12 @@
                     "include_dependencies": false,
                     "package": "pylint",
                     "package_or_url": "pylint",
-                    "package_version": "2.17.2",
+                    "package_version": "3.0.2",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -1049,12 +1049,12 @@
                     "include_dependencies": false,
                     "package": "refurb",
                     "package_or_url": "refurb",
-                    "package_version": "1.15.0",
+                    "package_version": "1.22.1",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -1077,12 +1077,12 @@
                     "include_dependencies": false,
                     "package": "ruff",
                     "package_or_url": "ruff",
-                    "package_version": "0.0.260",
+                    "package_version": "0.1.4",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -1110,7 +1110,7 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -1159,12 +1159,12 @@
                     "include_dependencies": false,
                     "package": "shandy-sqlfmt",
                     "package_or_url": "shandy-sqlfmt[jinjafmt]",
-                    "package_version": "0.17.0",
+                    "package_version": "0.21.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -1234,12 +1234,12 @@
                     "include_dependencies": false,
                     "package": "sqlfluff",
                     "package_or_url": "sqlfluff",
-                    "package_version": "2.0.2",
+                    "package_version": "2.3.5",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         },
@@ -1271,81 +1271,12 @@
                     "include_dependencies": false,
                     "package": "sqlite-utils",
                     "package_or_url": "sqlite-utils",
-                    "package_version": "3.30",
+                    "package_version": "3.35.2",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.2",
-                "venv_args": []
-            }
-        },
-        "wordcloud": {
-            "metadata": {
-                "injected_packages": {},
-                "main_package": {
-                    "app_paths": [
-                        {
-                            "__Path__": "/Users/gavin/.local/pipx/venvs/wordcloud/bin/wordcloud_cli",
-                            "__type__": "Path"
-                        }
-                    ],
-                    "app_paths_of_dependencies": {
-                        "fonttools": [
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/wordcloud/bin/fonttools",
-                                "__type__": "Path"
-                            },
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/wordcloud/bin/pyftmerge",
-                                "__type__": "Path"
-                            },
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/wordcloud/bin/pyftsubset",
-                                "__type__": "Path"
-                            },
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/wordcloud/bin/ttx",
-                                "__type__": "Path"
-                            }
-                        ],
-                        "numpy": [
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/wordcloud/bin/f2py",
-                                "__type__": "Path"
-                            },
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/wordcloud/bin/f2py3",
-                                "__type__": "Path"
-                            },
-                            {
-                                "__Path__": "/Users/gavin/.local/pipx/venvs/wordcloud/bin/f2py3.11",
-                                "__type__": "Path"
-                            }
-                        ]
-                    },
-                    "apps": [
-                        "wordcloud_cli"
-                    ],
-                    "apps_of_dependencies": [
-                        "f2py",
-                        "f2py3",
-                        "f2py3.11",
-                        "fonttools",
-                        "pyftmerge",
-                        "pyftsubset",
-                        "ttx"
-                    ],
-                    "include_apps": true,
-                    "include_dependencies": false,
-                    "package": "wordcloud",
-                    "package_or_url": "wordcloud",
-                    "package_version": "1.9.2",
-                    "pip_args": [],
-                    "suffix": ""
-                },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.11.3",
+                "python_version": "Python 3.12.0",
                 "venv_args": []
             }
         }

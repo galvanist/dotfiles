@@ -74,9 +74,10 @@ Then you can install the preferred apps with:
 ./bin/pipx-install-from-list.sh pipx-list.json
 ```
 
-You can also refresh the file with:
+You can also refresh the lists with:
 ```sh
 ./bin/pipx-list.sh > pipx-list.json
+./bin/pipx-list-json2txt.sh < pipx-list.json > pipx-list.txt
 ```
 
 ## Manual Installs

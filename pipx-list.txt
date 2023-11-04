@@ -1,3 +1,4 @@
+asciinema
 aws-export-credentials
 aws-sso-util
 aws2-wrap
@@ -22,4 +23,3 @@ s3cmd
 shandy-sqlfmt
 sqlfluff
 sqlite-utils
-wordcloud
