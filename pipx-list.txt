@@ -11,12 +11,14 @@ datasette
 flake8
 httpie
 isort
+metrics
 mypy
 pdoc
 poetry
 pre-commit
 py-spy
 pylint
+radon
 refurb
 ruff
 s3cmd

@@ -667,6 +667,43 @@
                 "venv_args": []
             }
         },
+        "metrics": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/metrics/bin/metrics",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "pygments": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/metrics/bin/pygmentize",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "metrics"
+                    ],
+                    "apps_of_dependencies": [
+                        "pygmentize"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "metrics",
+                    "package_or_url": "metrics",
+                    "package_version": "0.3.3",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.8.16",
+                "venv_args": []
+            }
+        },
         "mypy": {
             "metadata": {
                 "injected_packages": {},
@@ -993,6 +1030,34 @@
                     "package": "pylint",
                     "package_or_url": "pylint",
                     "package_version": "3.0.2",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.2",
+                "python_version": "Python 3.12.0",
+                "venv_args": []
+            }
+        },
+        "radon": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/radon/bin/radon",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "radon"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "package": "radon",
+                    "package_or_url": "radon",
+                    "package_version": "6.0.1",
                     "pip_args": [],
                     "suffix": ""
                 },
