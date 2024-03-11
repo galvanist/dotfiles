@@ -18,14 +18,25 @@
                     "apps_of_dependencies": [],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [
+                        "man1/asciinema.1"
+                    ],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/asciinema/share/man/man1/asciinema.1",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "man_paths_of_dependencies": {},
                     "package": "asciinema",
                     "package_or_url": "asciinema",
                     "package_version": "2.4.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -55,14 +66,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "aws-export-credentials",
                     "package_or_url": "aws-export-credentials",
                     "package_version": "0.18.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -106,14 +121,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "aws-sso-util",
                     "package_or_url": "aws-sso-util",
                     "package_version": "4.32.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -134,14 +153,18 @@
                     "apps_of_dependencies": [],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "aws2-wrap",
                     "package_or_url": "aws2-wrap",
-                    "package_version": "1.3.1",
+                    "package_version": "1.4.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -183,14 +206,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "awsebcli",
                     "package_or_url": "awsebcli",
                     "package_version": "3.20.10",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -204,6 +231,10 @@
                         "apps_of_dependencies": [],
                         "include_apps": false,
                         "include_dependencies": false,
+                        "man_pages": [],
+                        "man_pages_of_dependencies": [],
+                        "man_paths": [],
+                        "man_paths_of_dependencies": {},
                         "package": "awsume-console-plugin",
                         "package_or_url": "awsume-console-plugin",
                         "package_version": "1.2.4",
@@ -269,14 +300,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "awsume",
                     "package_or_url": "awsume",
-                    "package_version": "4.5.3",
+                    "package_version": "4.5.4",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -302,14 +337,18 @@
                     "apps_of_dependencies": [],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "black",
                     "package_or_url": "black",
-                    "package_version": "23.10.1",
+                    "package_version": "24.2.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -344,14 +383,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "credstash",
                     "package_or_url": "credstash",
                     "package_version": "1.17.1",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -460,14 +503,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "csvkit",
                     "package_or_url": "csvkit",
-                    "package_version": "1.3.0",
+                    "package_version": "1.4.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -518,14 +565,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "datasette",
                     "package_or_url": "datasette",
-                    "package_version": "0.64.5",
+                    "package_version": "0.64.6",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -562,14 +613,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "flake8",
                     "package_or_url": "flake8",
-                    "package_version": "6.1.0",
+                    "package_version": "7.0.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -623,14 +678,35 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [
+                        "man1/http.1",
+                        "man1/httpie.1",
+                        "man1/https.1"
+                    ],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/httpie/share/man/man1/http.1",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/httpie/share/man/man1/httpie.1",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/httpie/share/man/man1/https.1",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "man_paths_of_dependencies": {},
                     "package": "httpie",
                     "package_or_url": "httpie",
                     "package_version": "3.2.2",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -656,14 +732,472 @@
                     "apps_of_dependencies": [],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "isort",
                     "package_or_url": "isort",
-                    "package_version": "5.12.0",
+                    "package_version": "5.13.2",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
+                "venv_args": []
+            }
+        },
+        "jupyterlab": {
+            "metadata": {
+                "injected_packages": {
+                    "ipywidgets": {
+                        "app_paths": [],
+                        "app_paths_of_dependencies": {
+                            "ipython": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/ipython",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/ipython3",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "pygments": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/pygmentize",
+                                    "__type__": "Path"
+                                }
+                            ]
+                        },
+                        "apps": [],
+                        "apps_of_dependencies": [
+                            "ipython",
+                            "ipython3",
+                            "pygmentize"
+                        ],
+                        "include_apps": false,
+                        "include_dependencies": false,
+                        "man_pages": [],
+                        "man_pages_of_dependencies": [
+                            "man1/ipython.1"
+                        ],
+                        "man_paths": [],
+                        "man_paths_of_dependencies": {
+                            "ipython": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/share/man/man1/ipython.1",
+                                    "__type__": "Path"
+                                }
+                            ]
+                        },
+                        "package": "ipywidgets",
+                        "package_or_url": "ipywidgets",
+                        "package_version": "8.1.2",
+                        "pip_args": [],
+                        "suffix": ""
+                    },
+                    "jupyterlab-execute-time": {
+                        "app_paths": [],
+                        "app_paths_of_dependencies": {
+                            "babel": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/pybabel",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "charset-normalizer": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/normalizer",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "httpx": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/httpx",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "ipython": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/ipython",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/ipython3",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "json5": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/pyjson5",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jsonpointer": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jsonpointer",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jsonschema": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jsonschema",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jupyter-client": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-kernel",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-kernelspec",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-run",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jupyter-core": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-migrate",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-troubleshoot",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jupyter-events": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-events",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jupyter-server": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-server",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jupyterlab": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jlpm",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-lab",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-labextension",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-labhub",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "nbclient": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-execute",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "nbconvert": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-dejavu",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-nbconvert",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "nbformat": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-trust",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "pygments": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/pygmentize",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "send2trash": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/send2trash",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "websocket-client": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/wsdump",
+                                    "__type__": "Path"
+                                }
+                            ]
+                        },
+                        "apps": [],
+                        "apps_of_dependencies": [
+                            "jlpm",
+                            "jupyter-lab",
+                            "jupyter-labextension",
+                            "jupyter-labhub",
+                            "httpx",
+                            "ipython",
+                            "ipython3",
+                            "pygmentize",
+                            "jupyter-kernel",
+                            "jupyter-kernelspec",
+                            "jupyter-run",
+                            "jupyter",
+                            "jupyter-migrate",
+                            "jupyter-troubleshoot",
+                            "jupyter-server",
+                            "jupyter-events",
+                            "jsonschema",
+                            "jsonpointer",
+                            "jupyter-dejavu",
+                            "jupyter-nbconvert",
+                            "jupyter-execute",
+                            "jupyter-trust",
+                            "send2trash",
+                            "wsdump",
+                            "pybabel",
+                            "pyjson5",
+                            "normalizer"
+                        ],
+                        "include_apps": false,
+                        "include_dependencies": false,
+                        "man_pages": [],
+                        "man_pages_of_dependencies": [
+                            "man1/ipython.1"
+                        ],
+                        "man_paths": [],
+                        "man_paths_of_dependencies": {
+                            "ipython": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/share/man/man1/ipython.1",
+                                    "__type__": "Path"
+                                }
+                            ]
+                        },
+                        "package": "jupyterlab-execute-time",
+                        "package_or_url": "jupyterlab-execute-time",
+                        "package_version": "3.1.2",
+                        "pip_args": [],
+                        "suffix": ""
+                    }
+                },
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jlpm",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-lab",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-labextension",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-labhub",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "babel": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/pybabel",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/normalizer",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "httpx": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/httpx",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "ipython": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/ipython",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/ipython3",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "json5": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/pyjson5",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jsonpointer": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jsonpointer",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jsonschema": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jsonschema",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyter-client": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-kernel",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-kernelspec",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-run",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyter-core": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-migrate",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-troubleshoot",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyter-events": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-events",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyter-server": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-server",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "nbclient": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-execute",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "nbconvert": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-dejavu",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-nbconvert",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "nbformat": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/jupyter-trust",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pygments": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/pygmentize",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "send2trash": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/send2trash",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "websocket-client": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/bin/wsdump",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "jlpm",
+                        "jupyter-lab",
+                        "jupyter-labextension",
+                        "jupyter-labhub"
+                    ],
+                    "apps_of_dependencies": [
+                        "httpx",
+                        "ipython",
+                        "ipython3",
+                        "pygmentize",
+                        "jupyter-kernel",
+                        "jupyter-kernelspec",
+                        "jupyter-run",
+                        "jupyter",
+                        "jupyter-migrate",
+                        "jupyter-troubleshoot",
+                        "jupyter-server",
+                        "jupyter-events",
+                        "jsonschema",
+                        "jsonpointer",
+                        "jupyter-dejavu",
+                        "jupyter-nbconvert",
+                        "jupyter-execute",
+                        "jupyter-trust",
+                        "send2trash",
+                        "wsdump",
+                        "pybabel",
+                        "pyjson5",
+                        "normalizer"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [
+                        "man1/ipython.1"
+                    ],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {
+                        "ipython": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/jupyterlab/share/man/man1/ipython.1",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "package": "jupyterlab",
+                    "package_or_url": "jupyterlab",
+                    "package_version": "4.1.4",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -693,14 +1227,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "metrics",
                     "package_or_url": "metrics",
                     "package_version": "0.3.3",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.8.16",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -741,14 +1279,512 @@
                     "apps_of_dependencies": [],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "mypy",
                     "package_or_url": "mypy",
-                    "package_version": "1.6.1",
+                    "package_version": "1.9.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
+                "venv_args": []
+            }
+        },
+        "notebook": {
+            "metadata": {
+                "injected_packages": {
+                    "ipywidgets": {
+                        "app_paths": [],
+                        "app_paths_of_dependencies": {
+                            "ipython": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/ipython",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/ipython3",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "pygments": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/pygmentize",
+                                    "__type__": "Path"
+                                }
+                            ]
+                        },
+                        "apps": [],
+                        "apps_of_dependencies": [
+                            "ipython",
+                            "ipython3",
+                            "pygmentize"
+                        ],
+                        "include_apps": false,
+                        "include_dependencies": false,
+                        "man_pages": [],
+                        "man_pages_of_dependencies": [
+                            "man1/ipython.1"
+                        ],
+                        "man_paths": [],
+                        "man_paths_of_dependencies": {
+                            "ipython": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/share/man/man1/ipython.1",
+                                    "__type__": "Path"
+                                }
+                            ]
+                        },
+                        "package": "ipywidgets",
+                        "package_or_url": "ipywidgets",
+                        "package_version": "8.1.2",
+                        "pip_args": [],
+                        "suffix": ""
+                    },
+                    "jupysql": {
+                        "app_paths": [],
+                        "app_paths_of_dependencies": {
+                            "charset-normalizer": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/normalizer",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "sqlparse": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/sqlformat",
+                                    "__type__": "Path"
+                                }
+                            ]
+                        },
+                        "apps": [],
+                        "apps_of_dependencies": [
+                            "sqlformat",
+                            "normalizer"
+                        ],
+                        "include_apps": false,
+                        "include_dependencies": false,
+                        "man_pages": [],
+                        "man_pages_of_dependencies": [],
+                        "man_paths": [],
+                        "man_paths_of_dependencies": {},
+                        "package": "jupysql",
+                        "package_or_url": "jupysql",
+                        "package_version": "0.10.10",
+                        "pip_args": [],
+                        "suffix": ""
+                    },
+                    "jupyterlab": {
+                        "app_paths": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jlpm",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-lab",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-labextension",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-labhub",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "app_paths_of_dependencies": {
+                            "babel": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/pybabel",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "charset-normalizer": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/normalizer",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "httpx": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/httpx",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "ipython": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/ipython",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/ipython3",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "json5": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/pyjson5",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jsonpointer": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jsonpointer",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jsonschema": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jsonschema",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jupyter-client": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-kernel",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-kernelspec",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-run",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jupyter-core": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-migrate",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-troubleshoot",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jupyter-events": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-events",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "jupyter-server": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-server",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "nbclient": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-execute",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "nbconvert": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-dejavu",
+                                    "__type__": "Path"
+                                },
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-nbconvert",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "nbformat": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-trust",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "pygments": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/pygmentize",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "send2trash": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/send2trash",
+                                    "__type__": "Path"
+                                }
+                            ],
+                            "websocket-client": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/wsdump",
+                                    "__type__": "Path"
+                                }
+                            ]
+                        },
+                        "apps": [
+                            "jlpm",
+                            "jupyter-lab",
+                            "jupyter-labextension",
+                            "jupyter-labhub"
+                        ],
+                        "apps_of_dependencies": [
+                            "httpx",
+                            "ipython",
+                            "ipython3",
+                            "pygmentize",
+                            "jupyter-kernel",
+                            "jupyter-kernelspec",
+                            "jupyter-run",
+                            "jupyter",
+                            "jupyter-migrate",
+                            "jupyter-troubleshoot",
+                            "jupyter-server",
+                            "jupyter-events",
+                            "jsonschema",
+                            "jsonpointer",
+                            "jupyter-dejavu",
+                            "jupyter-nbconvert",
+                            "jupyter-execute",
+                            "jupyter-trust",
+                            "send2trash",
+                            "wsdump",
+                            "pybabel",
+                            "pyjson5",
+                            "normalizer"
+                        ],
+                        "include_apps": false,
+                        "include_dependencies": false,
+                        "man_pages": [],
+                        "man_pages_of_dependencies": [
+                            "man1/ipython.1"
+                        ],
+                        "man_paths": [],
+                        "man_paths_of_dependencies": {
+                            "ipython": [
+                                {
+                                    "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/share/man/man1/ipython.1",
+                                    "__type__": "Path"
+                                }
+                            ]
+                        },
+                        "package": "jupyterlab",
+                        "package_or_url": "jupyterlab",
+                        "package_version": "4.1.4",
+                        "pip_args": [],
+                        "suffix": ""
+                    }
+                },
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-notebook",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "babel": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/pybabel",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/normalizer",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "httpx": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/httpx",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "ipython": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/ipython",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/ipython3",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "json5": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/pyjson5",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jsonpointer": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jsonpointer",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jsonschema": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jsonschema",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyter-client": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-kernel",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-kernelspec",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-run",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyter-core": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-migrate",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-troubleshoot",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyter-events": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-events",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyter-server": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-server",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyterlab": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jlpm",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-lab",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-labextension",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-labhub",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "nbclient": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-execute",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "nbconvert": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-dejavu",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-nbconvert",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "nbformat": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/jupyter-trust",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pygments": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/pygmentize",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "send2trash": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/send2trash",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "websocket-client": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/bin/wsdump",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "jupyter-notebook"
+                    ],
+                    "apps_of_dependencies": [
+                        "jupyter-server",
+                        "jupyter-kernel",
+                        "jupyter-kernelspec",
+                        "jupyter-run",
+                        "jupyter",
+                        "jupyter-migrate",
+                        "jupyter-troubleshoot",
+                        "jupyter-events",
+                        "jsonschema",
+                        "jsonpointer",
+                        "jupyter-dejavu",
+                        "jupyter-nbconvert",
+                        "jupyter-execute",
+                        "jupyter-trust",
+                        "pygmentize",
+                        "send2trash",
+                        "wsdump",
+                        "pybabel",
+                        "pyjson5",
+                        "normalizer",
+                        "jlpm",
+                        "jupyter-lab",
+                        "jupyter-labextension",
+                        "jupyter-labhub",
+                        "httpx",
+                        "ipython",
+                        "ipython3"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [
+                        "man1/ipython.1"
+                    ],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {
+                        "ipython": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/notebook/share/man/man1/ipython.1",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "package": "notebook",
+                    "package_or_url": "notebook",
+                    "package_version": "7.1.1",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -778,14 +1814,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "pdoc",
                     "package_or_url": "pdoc",
-                    "package_version": "14.1.0",
+                    "package_version": "14.4.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -874,14 +1914,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "poetry",
                     "package_or_url": "poetry",
-                    "package_version": "1.7.0",
+                    "package_version": "1.8.2",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -925,14 +1969,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "pre-commit",
                     "package_or_url": "pre-commit",
-                    "package_version": "3.5.0",
+                    "package_version": "3.6.2",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -953,14 +2001,18 @@
                     "apps_of_dependencies": [],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "py-spy",
                     "package_or_url": "py-spy",
                     "package_version": "0.3.14",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -1027,14 +2079,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "pylint",
                     "package_or_url": "pylint",
-                    "package_version": "3.0.2",
+                    "package_version": "3.1.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -1055,14 +2111,18 @@
                     "apps_of_dependencies": [],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "radon",
                     "package_or_url": "radon",
                     "package_version": "6.0.1",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -1112,14 +2172,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "refurb",
                     "package_or_url": "refurb",
-                    "package_version": "1.22.1",
+                    "package_version": "2.0.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -1140,14 +2204,18 @@
                     "apps_of_dependencies": [],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "ruff",
                     "package_or_url": "ruff",
-                    "package_version": "0.1.4",
+                    "package_version": "0.3.2",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -1168,14 +2236,25 @@
                     "apps_of_dependencies": [],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [
+                        "man1/s3cmd.1"
+                    ],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/s3cmd/share/man/man1/s3cmd.1",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "man_paths_of_dependencies": {},
                     "package": "s3cmd",
                     "package_or_url": "s3cmd",
-                    "package_version": "2.3.0",
+                    "package_version": "2.4.0",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -1222,14 +2301,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "shandy-sqlfmt",
                     "package_or_url": "shandy-sqlfmt[jinjafmt]",
-                    "package_version": "0.21.0",
+                    "package_version": "0.21.2",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -1297,14 +2380,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "sqlfluff",
                     "package_or_url": "sqlfluff",
                     "package_version": "2.3.5",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         },
@@ -1334,14 +2421,18 @@
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
                     "package": "sqlite-utils",
                     "package_or_url": "sqlite-utils",
-                    "package_version": "3.35.2",
+                    "package_version": "3.36",
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.2",
-                "python_version": "Python 3.12.0",
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.12.2",
                 "venv_args": []
             }
         }

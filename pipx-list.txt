@@ -11,8 +11,10 @@ datasette
 flake8
 httpie
 isort
+jupyterlab
 metrics
 mypy
+notebook
 pdoc
 poetry
 pre-commit
