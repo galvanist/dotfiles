@@ -17,7 +17,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 You can (re)install the preferred apps and casks in the `Brewfile` with `brew bundle install`.
 
-You can refresh this file with `brew bundle dump --force`.
+You can refresh this file with `./brew-refresh.sh` (i.e: `brew bundle dump --force`).
 
 ### Installing Stow and Git (Required for the following)
 ```sh
@@ -74,7 +74,7 @@ Then you can install the preferred apps with:
 ./bin/pipx-install-from-list.sh pipx-list.json
 ```
 
-You can also refresh the lists with:
+You can refresh the lists with `./pipx-refresh.sh`, i.e:
 ```sh
 ./bin/pipx-list.sh > pipx-list.json
 ./bin/pipx-list-json2txt.sh < pipx-list.json > pipx-list.txt
