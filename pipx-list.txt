@@ -12,10 +12,14 @@ flake8
 httpie
 isort
 jupyterlab
+libyear
 metrics
 mypy
 notebook
 pdoc
+pigar
+pipdeptree
+piprot
 poetry
 pre-commit
 py-spy

@@ -32,11 +32,13 @@
                     "package": "asciinema",
                     "package_or_url": "asciinema",
                     "package_version": "2.4.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -73,11 +75,13 @@
                     "package": "aws-export-credentials",
                     "package_or_url": "aws-export-credentials",
                     "package_version": "0.18.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -128,11 +132,13 @@
                     "package": "aws-sso-util",
                     "package_or_url": "aws-sso-util",
                     "package_version": "4.32.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -160,11 +166,13 @@
                     "package": "aws2-wrap",
                     "package_or_url": "aws2-wrap",
                     "package_version": "1.4.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -213,11 +221,13 @@
                     "package": "awsebcli",
                     "package_or_url": "awsebcli",
                     "package_version": "3.20.10",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -238,6 +248,7 @@
                         "package": "awsume-console-plugin",
                         "package_or_url": "awsume-console-plugin",
                         "package_version": "1.2.4",
+                        "pinned": false,
                         "pip_args": [],
                         "suffix": ""
                     }
@@ -307,11 +318,13 @@
                     "package": "awsume",
                     "package_or_url": "awsume",
                     "package_version": "4.5.4",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -344,11 +357,13 @@
                     "package": "black",
                     "package_or_url": "black",
                     "package_version": "24.2.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -390,11 +405,13 @@
                     "package": "credstash",
                     "package_or_url": "credstash",
                     "package_version": "1.17.1",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -510,11 +527,13 @@
                     "package": "csvkit",
                     "package_or_url": "csvkit",
                     "package_version": "1.4.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -572,11 +591,13 @@
                     "package": "datasette",
                     "package_or_url": "datasette",
                     "package_version": "0.64.6",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -620,11 +641,13 @@
                     "package": "flake8",
                     "package_or_url": "flake8",
                     "package_version": "7.0.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -702,11 +725,13 @@
                     "package": "httpie",
                     "package_or_url": "httpie",
                     "package_version": "3.2.2",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -739,11 +764,13 @@
                     "package": "isort",
                     "package_or_url": "isort",
                     "package_version": "5.13.2",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -794,6 +821,7 @@
                         "package": "ipywidgets",
                         "package_or_url": "ipywidgets",
                         "package_version": "8.1.2",
+                        "pinned": false,
                         "pip_args": [],
                         "suffix": ""
                     },
@@ -993,6 +1021,7 @@
                         "package": "jupyterlab-execute-time",
                         "package_or_url": "jupyterlab-execute-time",
                         "package_version": "3.1.2",
+                        "pinned": false,
                         "pip_args": [],
                         "suffix": ""
                     }
@@ -1193,11 +1222,59 @@
                     "package": "jupyterlab",
                     "package_or_url": "jupyterlab",
                     "package_version": "4.1.4",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
+                "venv_args": []
+            }
+        },
+        "libyear": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/libyear/bin/libyear",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/libyear/bin/normalizer",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "libyear"
+                    ],
+                    "apps_of_dependencies": [
+                        "normalizer"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "libyear",
+                    "package_or_url": "libyear",
+                    "package_version": "0.2.1",
+                    "pinned": false,
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.5",
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "/Users/gavin/.pyenv/shims/python3.11",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -1234,11 +1311,13 @@
                     "package": "metrics",
                     "package_or_url": "metrics",
                     "package_version": "0.3.3",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -1286,11 +1365,13 @@
                     "package": "mypy",
                     "package_or_url": "mypy",
                     "package_version": "1.9.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -1341,6 +1422,7 @@
                         "package": "ipywidgets",
                         "package_or_url": "ipywidgets",
                         "package_version": "8.1.2",
+                        "pinned": false,
                         "pip_args": [],
                         "suffix": ""
                     },
@@ -1374,6 +1456,7 @@
                         "package": "jupysql",
                         "package_or_url": "jupysql",
                         "package_version": "0.10.10",
+                        "pinned": false,
                         "pip_args": [],
                         "suffix": ""
                     },
@@ -1573,6 +1656,7 @@
                         "package": "jupyterlab",
                         "package_or_url": "jupyterlab",
                         "package_version": "4.1.4",
+                        "pinned": false,
                         "pip_args": [],
                         "suffix": ""
                     }
@@ -1780,11 +1864,13 @@
                     "package": "notebook",
                     "package_or_url": "notebook",
                     "package_version": "7.1.1",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -1821,11 +1907,154 @@
                     "package": "pdoc",
                     "package_or_url": "pdoc",
                     "package_version": "14.4.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
+                "venv_args": []
+            }
+        },
+        "pigar": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/pigar/bin/pigar",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "jsonschema": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pigar/bin/jsonschema",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jupyter-core": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pigar/bin/jupyter",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pigar/bin/jupyter-migrate",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pigar/bin/jupyter-troubleshoot",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "nbformat": [
+                            {
+                                "__Path__": "/Users/gavin/.local/pipx/venvs/pigar/bin/jupyter-trust",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "pigar"
+                    ],
+                    "apps_of_dependencies": [
+                        "jupyter-trust",
+                        "jsonschema",
+                        "jupyter",
+                        "jupyter-migrate",
+                        "jupyter-troubleshoot"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "pigar",
+                    "package_or_url": "pigar",
+                    "package_version": "2.1.4",
+                    "pinned": false,
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.5",
+                "python_version": "Python 3.12.2",
+                "source_interpreter": null,
+                "venv_args": []
+            }
+        },
+        "pipdeptree": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/pipdeptree/bin/pipdeptree",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "pipdeptree"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "pipdeptree",
+                    "package_or_url": "pipdeptree",
+                    "package_version": "2.26.1",
+                    "pinned": false,
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.5",
+                "python_version": "Python 3.13.2",
+                "source_interpreter": {
+                    "__Path__": "/opt/homebrew/opt/python@3.13/libexec/bin/python",
+                    "__type__": "Path"
+                },
+                "venv_args": []
+            }
+        },
+        "piprot": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "/Users/gavin/.local/pipx/venvs/piprot/bin/piprot",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "piprot"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "piprot",
+                    "package_or_url": "https://github.com/sesh/piprot/archive/refs/heads/master.zip",
+                    "package_version": "0.10.0",
+                    "pinned": false,
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.5",
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "/Users/gavin/.pyenv/shims/python3.11",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -1921,11 +2150,13 @@
                     "package": "poetry",
                     "package_or_url": "poetry",
                     "package_version": "1.8.2",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -1976,11 +2207,13 @@
                     "package": "pre-commit",
                     "package_or_url": "pre-commit",
                     "package_version": "3.6.2",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -2008,11 +2241,13 @@
                     "package": "py-spy",
                     "package_or_url": "py-spy",
                     "package_version": "0.3.14",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -2086,11 +2321,13 @@
                     "package": "pylint",
                     "package_or_url": "pylint",
                     "package_version": "3.1.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -2118,11 +2355,13 @@
                     "package": "radon",
                     "package_or_url": "radon",
                     "package_version": "6.0.1",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -2179,11 +2418,13 @@
                     "package": "refurb",
                     "package_or_url": "refurb",
                     "package_version": "2.0.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -2211,11 +2452,13 @@
                     "package": "ruff",
                     "package_or_url": "ruff",
                     "package_version": "0.3.2",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -2250,11 +2493,13 @@
                     "package": "s3cmd",
                     "package_or_url": "s3cmd",
                     "package_version": "2.4.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -2308,11 +2553,13 @@
                     "package": "shandy-sqlfmt",
                     "package_or_url": "shandy-sqlfmt[jinjafmt]",
                     "package_version": "0.21.2",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -2387,11 +2634,13 @@
                     "package": "sqlfluff",
                     "package_or_url": "sqlfluff",
                     "package_version": "2.3.5",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -2428,11 +2677,13 @@
                     "package": "sqlite-utils",
                     "package_or_url": "sqlite-utils",
                     "package_version": "3.36",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.12.2",
+                "source_interpreter": null,
                 "venv_args": []
             }
         }
