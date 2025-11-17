@@ -1,1 +1,1 @@
-jq -r '.venvs | keys[]' $1 | xargs -pI _ pipx install _
+jq -r '.venvs | keys[]' $1 | xargs -pI _ pipx install -f _
